@@ -1,0 +1,17 @@
+Grazioli, G. (2022). ggrazioli/LennardJonesFluidLab: Initial Release (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7242966
+
+(2008). Daintith, J. (Ed.), A Dictionary of Chemistry. : Oxford University Press. Retrieved 24 May. 2023, from https://www.oxfordreference.com/view/10.1093/acref/9780199204632.001.0001/acref-9780199204632. 
+
+Lennard-Jones Equation of State : SklogWiki. Retrieved 24 May. 2023, from http://www.sklogwiki.org/SklogWiki/index.php/Lennard-Jones_equation_of_state
+
+Phase diagram of the Lennard Jones model : SklogWiki. Retrieved 24 May. 2023, from http://www.sklogwiki.org/SklogWiki/index.php/Phase_diagram_of_the_Lennard-Jones_model
+
+B. Smit; Phase diagrams of Lennard‐Jones fluids. J. Chem. Phys. 1 June 1992; 96 (11): 8639–8640. https://doi.org/10.1063/1.462271
+
+Hiroshi Watanabe, Nobuyasu Ito, Chin-Kun Hu; Phase diagram and universality of the Lennard-Jones gas-liquid system. J. Chem. Phys. 28 May 2012; 136 (20): 204102. https://doi.org/10.1063/1.4720089
+
+Jean-Pierre Hansen, Loup Verlet; Phase Transitions of the Lennard-Jones System. Phys. Rev. 5 August 1969; 184 (151). https://doi.org/10.1103/PhysRev.184.151
+
+J.A. Barker, D. Henderson, F.F. Abraham; Phase diagram of the two-dimensional Lennard Jones system; Evidence for first order transitions. Physica A: Statistical Mechanics and its Applications. March 1981; 160 (226). https://doi.org/10.1016/0378-4371(81)90222-3
+
+E. Torr; Free Energy, Thermodynamic Identities, Phase Transitions. Physics 3700 Lecture Notes from Utah State University. 2015. https://www.physics.usu.edu/torre/3700_Spring_2015/Lectures/06.pdf
